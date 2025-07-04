@@ -1,5 +1,4 @@
 # Word Encoder CLI
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/favourthemaster/word-encoder-cli)
 
 `word-encoder-cli` is a simple command-line tool built with Go that encodes text using the ROT13 cipher. It features an interactive TUI (Text-based User Interface) powered by `bubbletea`, allowing users to choose between encoding text from a file or from direct keyboard input.
 
